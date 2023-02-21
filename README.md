@@ -42,9 +42,10 @@ I figured out how html containers work with each other.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/luieitalian)
-- Twitter - [@yourusername](https://www.twitter.com/luieitalian)
+- Frontend Mentor - [@luieitalian](https://www.frontendmentor.io/profile/luieitalian)
+- Twitter - [@luieitalian](https://www.twitter.com/luieitalian)
 
 ## Acknowledgments
 
-Zach Gollitzer  - Teacher
+Thanks to :
+  Zach Gollitzer
