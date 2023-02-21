@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Luieitalian/single-price-grid-component-master.git)
+- Solution URL: [Solution URL](https://github.com/Luieitalian/single-price-grid-component-master/tree/solution)
 - Live Site URL: [Live site URL](https://luieitalian.github.io/single-price-grid-component-master/)
 
 
