@@ -104,7 +104,7 @@ li {
         margin: 5% auto;
     }
     .bottom-left, .bottom-right {
-        width: 60%;
+        width: 50%;
     }
     .bottom {
         display: flex;
