@@ -32,4 +32,4 @@ I learned responsive web design and this project is built mobile-first
 ## Acknowledgments
 
 Thanks to :
-  Zach Gollitzer
+  Zach Gollwitzer
